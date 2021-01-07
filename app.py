@@ -243,7 +243,7 @@ def prediction(job_title, soc_title, full_time_position,
 def main():
     # front end elements of the web page
     st.text('Author @sai Prashanth T S')
-    st.text('saiprashanthts@gmail.com')
+    st.text('prashanthsp1995@gmail.com')
     html_temp = """ 
     <div style ="background-color:yellow;padding:13px"> 
     <h1 style ="color:black;text-align:center;">Streamlit H1B Prediction ML App</h1> 
